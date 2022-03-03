@@ -1,0 +1,2 @@
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
