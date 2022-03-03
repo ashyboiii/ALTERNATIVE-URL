@@ -1,0 +1,1 @@
+chromium-browser --no-sandbox --disable-dinosaur-easter-egg --start-maximized --disable-file-system --disable-extensions --force-device-scale-factor=0.8 --deny-permission-prompts --start-in-incognito 2> ./logs.txt
